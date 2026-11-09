@@ -1,0 +1,219 @@
+@day do 2026-11-12 Donnerstag
+# F1 :: Recht & Paragraphenreiterei :: Forum 1 – Recht & Paragraphenreiterei
+09:30-10:00 :: BauGB-Novelle und die neuen Regelungen für Repowering und kommunale Privilegierung :: Dr. Peter Sittig-Behm – PROMETHEUS
+10:00-10:30 :: Der Weg ist das Ziel – Zuwegung einkonzentriert und privilegiert? :: Joann Lisa Schröder – PROMETHEUS
+10:30-11:00 :: Konkurrenzschutz gegen private Bauherrn – Abwehr von Verhinderungsvorhaben und nachträglichen Vorbelastungen :: Dr. Friedrich Dilg – RITTERSHAUS Rechtsanwälte
+11:00-11:30 :: Vollständigkeitsprüfung bei Windenergieanlagen: Standsicherheit im Fokus und Verfahrensfolgen :: Dr. Emmanuelle Balland – von Bredow Valentin Herz
+11:30-12:00 :: Vollständigkeitsprüfung bei Windenergieanlagen: Reichweite der Rangsicherung und Rechtsschutz bei Konkurrenz :: Dr. Sophie Jendro – von Bredow Valentin Herz
+12:00-12:30 :: Die BNatSchG-Novellierungen und ihr Scheitern bei der Quantifizierung von Tötungsrisiken – eine Abhilfe ist möglich! :: Dr. Hartwig Schlüter – EnerPlan Projektentwicklung GmbH
+12:30-13:00 :: Das UIG und die Erneuerbaren: Wie gehe ich mit Anfragen im Rahmen des UIG um und was muss ich überhaupt herausgeben? :: Angela Carstensen – CARSTENSEN Wirtschaftsrecht
+
+# F3 :: BWE Sachverständigenbeirat :: Forum 3 – BWE Sachverständigenbeirat :: https://www.wind-energie.de/verband/fachgremien/beiraete/sachverstaendigenbeirat/
+09:30-09:50 :: Verkehrswert Bewertung von Projekten und Rechten mit EEG 2027 und Netzpaket :: Herr Heiko Voß – Reprojekt GmbH
+09:50-09:55 :: Diskussion
+09:55-10:00 :: Pause
+10:00-10:20 :: Zustandsbewertung der Blattlager zum Weiterbetrieb nach Ablauf der regulären Betriebsdauer :: Herr Valentin Meimann – MML-Solutions
+10:20-10:25 :: Diskussion
+10:25-10:30 :: Pause
+10:30-10:50 :: Validierung unserer Flugbahnberechnung mit Standard Eisstücken :: Herr Kai Deponte – F2E Fluid & Energy Engineering
+10:50-10:55 :: Diskussion
+10:55-11:00 :: Pause
+11:00-11:20 :: Heute schon in die Schraube geschaut….??? :: Herr Christoph Schnitger – TCP Prüftechnik GmbH
+11:20-11:25 :: Diskussion
+11:25-11:30 :: Pause
+11:30-11:50 :: Sachverständigentätigkeit im KI-Zeitalter: vom Chatbot zur eigenen Fachanwendung :: Herr Lukas Vietmeyer – Reprojekt GmbH
+11:50-11:55 :: Diskussion
+11:55-12:00 :: Pause
+12:00-12:20 :: Risiken undercover – Fallstricke in Planung und Risikobewertung :: Frau Rebecca Bode – F2E Fluid & Energy Engineering
+12:20-12:25 :: Diskussion
+12:25-12:30 :: Pause
+12:30-12:50 :: Herausforderung Rotorblattinspektion – Drohne versus Seilzugangstechnik :: Herr Lars Weigelt – WindGuard Certification GmbH
+
+# F4 :: DNV :: Forum 4 – DNV :: https://www.dnv.de/
+09:30-09:35 :: Begrüßung und Moderation :: Axel Sachse – DNV
+09:35-09:55 :: Security by Design im neuen Windpark – Schutz vor einer sich wandelnden Bedrohungslandschaft :: Alfred Schröder – DNV
+10:00-10:25 :: Sichere Windenergie neben Menschen und Infrastruktur – Risikobewertung nach IEC 61400-31 :: Alper Sevim – DNV
+10:30-10:55 :: Ab wann wird Turbulenz von Lidarmessungen belastbar? Eine Monte-Carlo-Analyse der erforderlichen Verifizierungsdauer von Lidar-TI-Verifizierungen :: Robert Menke – DNV
+11:00-11:25 :: EEG 2027 – was ändert sich bei Ertrag und Standortgüte :: Till Schorer – DNV
+11:30-11:55 :: Bewertung netzbedingter Abregelungsrisiken für deutsche Windparks im Lichte des Netzausbaus :: Matthias Müller-Mienack – DNV
+12:00-12:25 :: DNV-Innovation zum neuen EEG – Szenarienberechnung spart Windsektormanagement in Standorteignungsgutachten :: Björn Freiwald – DNV
+12:25-12:30 :: Abschluss :: Axel Sachse – DNV
+
+# F5 :: PREDIXXION :: Forum 5 – PREDIXXION – Unabhängige Sicht auf die Windparkperformance :: https://www.predixxion.com/
+09:30-10:00 :: Ein Windpark, der läuft, ist noch kein Windpark, der liefert. – Wind Farm Performance Explorer :: Christian Müller – PREDIXXION
+10:00-10:30 :: Liegt es am Park oder an der Erwartung? – Wind Farm Performance Assessment :: Max Braeschke – PREDIXXION
+10:30-11:00 :: Mehr Ertrag. Weniger Risiko. Smarter Wind. – Wind Farm Performance Intelligence :: Christian Müller – PREDIXXION
+11:00-11:30 :: Wenn der Wind mehr ist als seine Geschwindigkeit. – Dual-Doppler-Lidar im Forschungsprojekt DODONA :: Max Braeschke – PREDIXXION
+
+# F7 :: LandService :: Forum 7 – LandService :: https://landservice-gmbh.de/
+09:30-10:00 :: 1:1-Repowering Windpark Söllingen :: Adrian Schindler – Landwind-Gruppe
+10:00-10:30 :: Einmal umbauen, bitte? Wenn alte Technik im Umspannwerk auf neue Netz-Anforderungen trifft. :: Pascal Geißler – Landwind-Gruppe
+10:30-11:00 :: Technische Betriebsführung von Umspannwerken – Einblick in die von uns eingesetzte Leittechnik :: Thomas Grond – LandService GmbH
+11:00-11:15 :: Kaffeepause
+11:15-11:45 :: Eisfall-Risikoabschätzung :: Pascal Simon – SOWIWAS-Energie GmbH
+11:45-12:15 :: DiSSGu: Schall- und Schattengutachten :: Khalil Karami – SOWIWAS-Energie GmbH
+12:15-12:45 :: Vom Maschinenhaus zum Erlebnisort: Wie Windenergie Akzeptanz schafft :: Stefanie Mertz – Landwind-Gruppe GmbH, Kevin Wolke – risatec GmbH
+12:45-13:15 :: Zum Schluss wird's praktisch: Drei Experten, drei Fälle, drei Lösungen aus dem Windparkalltag :: Arndt Schaare, Frank Fuhrmeister, Tobias Jura – LandService GmbH
+
+# F8 :: EMD Deutschland :: Forum 8 – Energie Miteinander Denken – Überbauung, Hybridparks, BESS und Sektorenkopplung mit windPRO und energyPRO – EMD Deutschland :: https://www.emd-international.com/
+09:50-10:00 :: Willkommen und Überblick :: Robin Funk – EMD Deutschland
+10:00-10:25 :: Joint Optimizer: Kombinierte Optimierung von Ertrag, Schall und Lasten in windPRO :: Dr. Moritz Hildemann – EMD International A/S
+10:25-10:50 :: Zeitreihen statt Pauschalwerte: Wie zeitlich variable Ertragsverluste die Realität besser vorhersagen :: Annika Baltzer – PAVANA GmbH
+10:50-11:10 :: Zeitvariable Verluste in windPRO :: Sylvia Schubert – EMD Deutschland
+11:10-11:25 :: Kaffeepause
+11:25-12:15 :: Überbauung von Netzanschlüssen mit Wind, PV und BESS planen – Erfahrungen aus der Praxis und softwaregestützte Auslegung und Analyse mit energyPRO und windPRO :: Jan Thomas Beißwenger – JUWI GmbH, Peter Ritter – EMD Deutschland
+12:15-12:40 :: Vom Wind zur Wärme: Lokaler Windstrom für Wärmenetze mit Großwärmepumpen :: Patrick Will, Tristan Unnasch – iNeG IngenieurNetzwerk Energie
+
+# F9 :: Betrieb & Instandhaltung :: Forum 9 – Betrieb & Instandhaltung
+09:30-10:00 :: Umspannwerke in der Betriebsphase – Welche Dinge bereits bei der Errichtung bedacht werden sollten :: Thomas Grund – EMIS Electrics GmbH
+10:00-10:30 :: Lebenszyklus Rotorblatt: Von Fertigung über Test, Inspektion, Reparatur bis Recycling :: Bernd Haller – Fraunhofer IWES
+10:30-11:00 :: Lynxes – eine Plattform zur Ermittlung von Windbedingungen wenn es komplex wird :: Dr. Martin Dörenkämper – Fraunhofer IWES
+11:00-11:30 :: Von der Prognose zum Performanceindex – anlagenscharfes Ertragsmonitoring als Alternative zum BDB-Index :: Simon Radke – Green Wind Operations GmbH
+11:30-12:00 :: Maximale Prozesssicherheit. Minimale Ausfallzeit. Drehmomenttechnik optimal nutzen! :: Alexander Grosser – STAHLWILLE Eduard Wille GmbH
+12:00-12:30 :: ROMEG offshore – Rotorgeometrievermessung auf See – Herausforderungen und Erfahrungen :: Abdullah Nitardy – windcomp
+12:30-13:00 :: Physischer Schutz von Windparks, Solarparks, Umspannwerken, Infrastruktur, Baustellenüberwachung :: Andreas Greulich – wpd windmanager
+
+# F10 :: Thementische :: Forum 10 – Thementische :: :: Thementische für den 12.11.: Programm folgt!
+
+# F11 :: Digital & Cybersecurity :: Forum 11 – Digital & Cybersecurity
+09:30-10:00 :: Von BCM bis KRITIS – wenn Cybersecurity zur Betreiberpflicht wird (Regelwerke einordnen, sichere industrielle Kommunikation umsetzen) :: Lorenz Abu Isbeih – INSYS icom GmbH
+10:00-10:30 :: Cybersecurity für Projektentwickler – Von Beginn an sicher. :: Thomas Zedler – ettex GmbH
+10:30-11:00 :: Reich und berühmt durch NIS2, Kritis und andere Verordnungen :: Matthias Brandt – Saxovent, Nicolas Abel – RheinCompliance
+11:00-11:30 :: Energy & AI Transition: Wie in Zukunft Mensch & Technologie unsere Projekte schneller zum COD bringen :: Alex Zwilling – Morreon GmbH
+
+# F12 :: Recht & Paragraphenreiterei :: Forum 12 – Recht & Paragraphenreiterei
+09:30-10:00 :: Ein Netzanschluss, zwei Anlagen, tausend Fragen – Co-Location aus rechtlicher Sicht :: Dr. Marleen Rheker – Osborne Clarke
+10:00-10:30 :: Steuerlicher Rundumschlag – Was steckt hinter den Forderungen der Grundstückseigentümer:innen? :: Lucas Schwier – Sterr-Kölln & Partner
+10:30-11:00 :: Hybride PPA / Tolling Agreements – Vertragsstrukturen und Fallstricke :: Dr. Christian Ertel
+11:00-11:30 :: Wie ticken Kommunen? Stakeholder-Management für BPlan-Erstellung und Pacht(nach-)verhandlungen :: Tim Verbarg – Sterr-Kölln & Partner
+11:30-12:00 :: Zwischen der Ablehnung eines Netzanschlusses und dem Abschluss eines FCA :: Sina Glahn – Brahms Nebel & Kollegen
+
+# F16 :: re:cap & 4:energy :: Forum 16 – re:cap global investors & 4:energy – Erfahrung mit BESS im laufenden Betrieb :: https://www.re-cap.ch/ https://four-energy.de/
+09:30-10:00 :: Übersicht Projekte in den verschiedenen Stadien und Ländern :: Linus Scherer – re:cap global investors ag
+10:00-10:45 :: Anforderungen an Batteriespeicher im Netzanschluss-Nachweisprozess nach VDE-AR-N 4110 und 4120 :: Bernd Hinzer – DNV Renewables Certification GmbH
+10:45-11:15 :: Von der Abregelung zur Abrechnung – Erlöstransparenz für Wind und BESS :: Jérôme Hengen – Streem Energy SAS
+11:15-11:30 :: Kaffeepause
+11:30-12:15 :: Technisches Monitoring für BESS :: Florian Strunck – ampere.cloud GmbH
+12:15-12:50 :: Fehleranalyse & Präventive Überwachung von BESS :: Claudius Jehle – volytica diagnostics GmbH
+12:50-13:30 :: IT Sicherheit, KRITIS und NIS2 für BESS :: Lydieth Triana – pure psm GmbH
+
+# F17 :: Erlöse, Flexibilität & Netz :: Forum 17 – Erlöse, Flexibilität & Netz
+09:30-10:00 :: Nutzen anstatt abregeln: Strategien und Maßnahmen – aber auch welche Hemmnisse vom Gesetzgeber abgebaut werden müssen :: Christian Meyer – EnergyConsulting
+10:00-10:30 :: Corporate PPAs für Windenergieanlagen – Windstrom unter Kannibalisierungsdruck :: Wolfgang Enders – EM consulting AG
+10:30-11:00 :: HybridNetze – Umsetzung von neuen Versorgungskonzepten in der Era von Post EEG und CFDs :: Wolfgang Krauss – acteno energy GmbH
+11:00-11:30 :: Fledermausabschaltungen standortbezogen optimieren – Gondelmonitoring zwischen Artenschutz und Wirtschaftlichkeit :: Dr. Simon Ghanem – KS Umweltgutachten GmbH
+
+# F18 :: digital@work – KI-Workshop :: Forum 18 – digital@work – Arbeiten mit KI – best practices :: https://digital-at-work.de/ Anmeldung=https://next.digital-at-work.de/apps/forms/s/yKFESH2SDEWttfjZpGcWYCbE :: Nur nach Anmeldung, limitierte Plätze, Laptop mitbringen.
+09:30-12:00 :: Workshop „Arbeiten mit KI – best practices“ (Prompting, Halluzinationen vermeiden, Umgang mit sensiblen Daten) :: Jens Kulenkampff, Lisa Yilmaz – digital@work GmbH
+
+# F19 :: Projektentwicklung & Akzeptanz :: Forum 19 – Projektentwicklung & Akzeptanz
+09:30-10:00 :: GIS-Projektentwicklung Nigeria :: Andrew Adewunmi, Prof. Dr.-Ing. Carsten Fichter – Hochschule Bremerhaven
+10:00-10:30 :: Maßgeschneiderte Modularität – Innovative Brückenlösungen für die Windkraft :: Georg Früh – Bridge Builder GmbH
+10:30-11:00 :: Schon wieder 350 MW NA-Zusagen erwirkt – 25 Projekte mit insgesamt 350 MW; Vorgehen, Konzepte und Strategien für den wirtschaftlichsten Netzverknüpfungspunkt :: Christian Meyer – EnergyConsulting
+11:00-11:30 :: Wenn der Baugrund zum Problem wird – Smarte Lösungen von der Dimensionierung bis zum Einbau moderner Geobaustoffe für Zuwegungen und Kranstellflächen :: Ralph Werner – Naue GmbH & Co. KG
+11:30-12:00 :: Einfache Vermessung & Geodokumentation im Windparkbau – Erfahrungen aus der Baustellenpraxis mit Smartphone & GNSS-Antenne :: Fabian Frauenberger – SitePlan GmbH
+
+# F21 :: Betrieb & Instandhaltung :: Forum 21 – Betrieb & Instandhaltung
+09:30-10:00 :: Entscheidungsunterstützung in Betrieb und Instandhaltung durch Zuverlässigkeitsmodellierung und Ableitung von Fehlerindikatoren :: Dr. Timo Lichtenstein – Fraunhofer IWES
+10:00-10:30 :: Mehr Ertrag aus Bestandswindparks – Schalltechnische Spielräume nutzen :: Anatolij Marinin – scopea
+10:30-11:00 :: Blattlagerrisse und Abhilfemöglichkeiten :: Werner Schroeppel – IMO GmbH & Co. KG
+11:00-11:30 :: Weiterbetrieb: Bauteile mit rechnerisch abgelaufener Lebensdauer :: Björn Frey – Ing. Büro Frey
+11:30-12:00 :: Alarmiert ist nicht koordiniert: Notfallmanagement für Windenergie neu denken :: Sebastian Berndt – Leitkompetenz UG
+12:00-12:30 :: Betriebssicherheit mit intelligenten Sensoren, KI-gestützte Live Zustandsbewertung, klare Handlungsempfehlungen :: Marco Staiti – Reinhausen GmbH
+12:30-13:00 :: Ersatzteil- und Servicemanagement für Getriebe in Windenergieanlagen :: Achim Oebel – Multigear GmbH
+
+# F24 :: TEDEXA – Zukunftsworkshop :: Forum 24 – TEDEXA – Zukunftsworkshop 2036 :: https://www.tedexa.de/ Anmeldung-Eventbrite=https://www.eventbrite.de/e/spreewind-2026-zukunftsworkshop-tickets-2003781064103 :: Nur mit Anmeldung (Eventbrite).
+09:00-12:30 :: Zukunftsworkshop: 2036 – Die Zukunft beginnt heute! (Impuls, Zukunftsvisionen, Backcasting) :: TEDEXA
+
+# F25 :: Netz- und Systemtechnik :: Forum 25 – Netz- und Systemtechnik
+09:30-10:00 :: Einblicke ins Stromnetz mit Lastflüssen und freie Netzanschlusspunkte finden :: Niklas Reinhardt – Blindleister GmbH
+10:00-10:30 :: Zertifizierte EZA-Regelung: schnell integriert, normkonform umgesetzt :: Karl-Friedrich Stapelfeldt – Beckhoff Automation GmbH & Co. KG
+10:30-11:00 :: Mit Blindleistung Geld verdienen und das Stromnetz stabilisieren :: Niklas Reinhardt – Blindleister GmbH
+11:00-11:30 :: Blind Date mit dem Blindleistungsmarkt :: Toni Derlig – GRIDSIDE Energy Consult GmbH
+11:30-12:00 :: Validierung des dvlp.energy Netzkapazitätsatlas durch das Reifegradverfahren :: Dr. Fabio Oldenburg – dvlp.energy GmbH
+
+# F26 :: GEO-NET :: Forum 26 – Geo-NET Umweltconsulting GmbH – Windertrag & Standorteignung neu gedacht – Daten, Modelle, Messungen :: https://www.geo-net.de/de/home.html
+09:30-10:15 :: Windertrag auf Knopfdruck: Ein indikativer Schnellcheck auf WindIQ als Basis für das bankfähige Windgutachten :: Enno Bornemann, Marc Herlitz – Vidia, Christian Kebbel – I17-Wind, Dominik Adler – GEO-NET, Sven Wiemers – planGIs GmbH
+10:15-10:45 :: Mehr als ein TR10-Nachweis: Richtlinien, Auflagen und Verluste besser verstehen – finanzielle Überraschungen vermeiden :: Julia Hunter – GEO-NET
+10:45-11:00 :: Potenzial der Nutzung frei verfügbarer Modelleingangsdaten – Möglichkeiten des Modells FITNAH-3D :: Paula Schröder – GEO-NET
+11:00-11:20 :: Lehren aus dem TI-Ringversuch: Umstellung auf Nutzung der TI aus FITNAH bei der Standorteignung :: Dr. Linda Schrempf – GEO-NET
+11:20-11:45 :: Virtuelle Messmasten – Validierung und Anwendung am Beispiel von Extremwindabschätzungen :: Dr. Linda Schrempf, Dr. Simone Pfau – GEO-NET
+11:45-12:15 :: Auswirkung des Klimawandels auf den Energieertrag :: Dr. Simone Pfau – GEO-NET
+
+# F27A :: Personal & Qualifizierung :: Forum 27A – „Personal und Qualifizierung – Wie geht es weiter?“ (C3L Universität Oldenburg / BWE-AK Personal & Recruiting) :: https://forwind.de/studium/ https://www.wind-energie.de/ https://uol.de/weiterbildung-windenergie
+09:30-10:10 :: Vom Windstudium zu Digitalisierten Energiesystemen: bewährte und neue Weiterbildungen für die Energiewende :: Moses Kärn – C3L, Universität Oldenburg
+10:15-10:35 :: KI in der Projektentwicklung – Ergebnisse einer Unternehmensbefragung und was sie für das Personal bedeuten :: Arwid Detlefs – Birn + Partners
+10:40-11:00 :: Der neue BWE-Arbeitskreis Personal & Recruiting :: Melanie Baier – Max Bögl Wind AG
+11:05-11:25 :: Quo vadis Erneuerbare? Studie der Bertelsmann-Stiftung zeigt Perspektiven für die Beschäftigten :: Dr. Ulrike Lehr – GWS Osnabrück
+11:30-12:30 :: Podiumsgespräch: Quo vadis Erneuerbare? Chancen und Risiken für die Beschäftigten angesichts von Ausbauhemmnissen, KI und Fachkräftemangel :: Christoph Schwarzer (Moderation), Prof. Dr.-Ing. Carsten Fichter, Dr. Ulrike Lehr, Melanie Baier, Arwid Detlefs, Moses Kärn
+
+# F27B :: Speicher & Sektorenkopplung :: Forum 27B – Speicher & Sektorenkopplung
+09:30-10:00 :: FCAs weiterdenken: Batteriespeicher als Systemressource :: Marion Hübener – Entrix GmbH
+10:00-10:30 :: Wie rentabel ist Wind + BESS wirklich? :: Florian Heise – Re-Twin Energy GmbH
+10:30-11:00 :: Fixpreis als Absicherung für Co-Location Grünstromspeicher :: Nick Uhlmann – EnBW Energie Baden-Württemberg AG
+11:00-11:30 :: Grünstromspeicher am Windpark: Praxisbericht aus Projektplanungen :: Melanie Jessen – OMNIO energy GmbH
+11:30-12:00 :: Das Millionen-Risiko im Kleingedruckten: BESS-Garantieverträge auf dem Prüfstand :: Claudius Jehle – volytica diagnostics GmbH
+12:00-12:30 :: Momentanreserve aus dem Windpark? Hybrid Control macht den Unterschied :: Marc Reitmaier – Phoenix Contact Deutschland GmbH
+
+# F28A :: Recht & Paragraphenreiterei :: Forum 28A – Recht & Paragraphenreiterei
+09:30-10:00 :: Einspeisenetzentgelte, Finale Investitionsentscheidung und AgNes, was Projektierer jetzt wissen müssen :: Tilman Petersen – von Bredow Valentin Herz
+10:00-10:30 :: Gemeinsame Netzinfrastruktur nutzen – Wind, PV, BESS an einem NVP :: Dr. Florian Brahms – Brahms Nebel & Kollegen
+10:30-11:00 :: Redispatch 2026: Neues Entschädigungsregime, Risiken und To-dos für Anlagenbetreiber :: Pavlos Konstantinidis – von Bredow Valentin Herz
+11:00-11:30 :: CfD statt Cashflow? Der Refinanzierungsbeitrag im EEG 2027 :: Dr. Manuela Herms – PROMETHEUS
+11:30-12:00 :: Vom Winde verweht? Die Systematik von Haftungsklauseln in Windenergieanlagenlieferverträgen :: Tobias Nauth – Sterr-Kölln & Partner
+13:00-13:30 :: Geschäftsführung unter Druck: Sicher handeln in der Unternehmenskrise. :: Dr. Daniel Berg – RITTERSHAUS Rechtsanwälte
+
+# F28B :: Digital vernetzt :: Forum 28B – Digital vernetzt: Netztechnik trifft IT-Infrastruktur
+09:30-10:00 :: Cyberangriffe erkennen, bevor sie Wirkung zeigen :: Torsten Gast – Phoenix Contact Deutschland GmbH
+10:00-10:30 :: Rampen, Überbauung, FCAs: Netzrestriktionen in Echtzeit steuern :: Dr. Lennard Wilkening – suena GmbH, Alexandra Mützelburg – Bird & Bird LLP
+10:30-11:00 :: Leitungsschäden in Deutschland und wie man sie verhindern kann :: Lukas Ikenmeyer – Trassenschutz
+11:00-11:30 :: Service SCADA – Wie besserer Service günstiger möglich wird :: Jan Dujesiefken – Emerson Process Management GmbH
+11:30-12:00 :: Der Einfluss von KI-Infrastruktur auf Strommärkte :: Prof. Dr. habil. Steffen Hundt – HTWK Leipzig
+12:00-12:30 :: Windparkregelung in der Praxis: Mehr Leistung bei kontrollierten Lasten :: Dr.-Ing. Matthias Kretschmer – MesH Engineering GmbH
+12:30-13:00 :: Hybridcontroller am Netzeinspeisepunkt :: Marc Reitmaier – Phoenix Contact Deutschland GmbH
+
+# F29 :: Digitalisierung, IT & Cybersecurity :: Forum 29 – Digitalisierung, IT & Cybersecurity
+09:30-10:00 :: KI-Kalkulation für Ausschreibungen :: Lee-Ann Beeck – 9010
+10:00-10:30 :: Eine Plattform – alle Anforderungen. NIS2 einfach umsetzen :: Holger Ahrend – AIOSEC e.K.
+10:30-11:00 :: Distressed Wind Assets – Rückenwind, Gegenwind, Sturmwarnung – Windenergiefinanzierung zwischen Leverage-Risiko, Vertragsgestaltung und Restrukturierung, Teil II (Teil I: 9:30 Uhr in Forum 30) :: Alexandra Mützelburg, Dr. Clemens Maschke – Bird & Bird LLP
+11:00-11:30 :: goal100.studio – Das Web-GIS, das mitdenkt. Von der Flächenanalyse bis zur Netzanfrage :: Bahne Carstensen – Goal100 GmbH
+11:30-12:00 :: Chatte mit deinen Daten – Datenanalyse neu gedacht :: Markus Eichhorn – CISS TDI GmbH
+
+# F30 :: Vermarktung & Finanzierung :: Forum 30 – Vermarktung & Finanzierung
+09:30-10:00 :: Distressed Wind Assets – Rückenwind, Gegenwind, Sturmwarnung – Windenergiefinanzierung zwischen Leverage-Risiko, Vertragsgestaltung und Restrukturierung, Teil I (Teil II: 10:30 Uhr in Forum 29) :: Alexandra Mützelburg, Dr. Clemens Maschke – Bird & Bird LLP
+10:00-10:30 :: Von der Eigenbelieferung bis zum Bürgerstrom: Über die gemeinsame Plattform Regiogröön :: René Ohm – Regiogröön
+10:30-11:00 :: Strom ohne Umweg: Industrielle Direktlieferung in der Praxis :: Jürgen Vosteen – Energiekontor, Maria Rudnick – MPC Capital
+11:00-11:30 :: Direktvermarktung – neu gedacht :: Menso van Brakel – Trianel GmbH
+11:30-12:00 :: Die Sicht einer finanzierenden Bank: Finanzierbarkeit von Co-Location Projekten, Erfahrungen aus dem PV-Bereich, Rolle von Gutachtern sowie Business Cases :: Holger Donhauser – Umweltbank
+
+# F31 :: Genehmigung, Planung & Recht :: Forum 31 – Genehmigung, Planung & Recht
+09:30-10:00 :: Wenn der Wind unten anders weht als oben – clevere Schallreduzierung für einen optimierten Anlagenbetrieb :: Vincent Rauch – Fleximaus GmbH
+10:00-10:30 :: Vom Bodendenkmal zur UNESCO-Stätte: Kulturerbe als Herausforderung für EE-Projekte :: Dr. Philip Lüth – Dr. Philip Lüth MCIfA
+10:30-11:00 :: Erfahrungen zur autonomen und teil-autonomen Bewirtschaftungsabschaltung für den Vogelschutz :: Christian Freiman – Fleximaus GmbH
+11:00-11:30 :: Aktuelle artenschutzrechtliche Herausforderungen bei der Genehmigung von Windenergieanlagen :: Dr. Markus Behnisch – Gaßner, Groth, Siederer & Coll.
+11:30-12:00 :: Ertragsoptimierter Artenschutz :: Jochen Rößler – Fleximaus GmbH
+12:00-12:30 :: Von der Lidar-Messung zur TR6-konformen Ertragsermittlung und Standortgütebewertung :: Dr. Kai Mönnich – USENS Energy Solutions GmbH
+12:30-13:00 :: Die Kunst der Auslegung: Stolpersteine im Märkischen Modell :: Jonathan I. Müller – Ing. Büro Kuntzsch
+
+# F32 :: Erlösmodelle :: Forum 32 – Erlösmodelle: Vermarktung & Sektorenkopplung
+09:30-10:00 :: Verwendung von „überschüssigem“ Strom :: Dieter Frey – Ing. Büro Frey
+10:00-10:30 :: Wie kommt der Wind- und Sonnenstrom eigentlich in die Wärme? Und wieso klappt es so häufig (noch) nicht? :: Christian Wengert – BLS Energieplan GmbH c/o DORSCH Gruppe
+10:30-11:00 :: Available Energy: real verfügbare Energie für die zuverlässige Vermarktung von Großspeichern :: Claudius Jehle – volytica diagnostics GmbH
+11:00-11:30 :: Viele Antworten auf EINE Frage: Wie mache ich Kohle mit meinem Wind? Verschiedene Möglichkeiten für die Vermarktung von selbst erzeugtem Strom :: Sophia Schmidt-Gahlen – Unigy GmbH, Nicolas Eschenbruch – dena
+
+# F36 :: Josefin Hahn :: Forum 36 / Themenhaus 483 – Raus aus dem Kopf. Rein in die Natur. :: https://josefin-hahn.de/ :: Moderierter Gesprächsraum. Anmeldung: kontakt@josefin-hahn.de
+09:30-11:00 :: Raus aus dem Kopf. Rein in die Natur. Gesprächsraum für Klarheit, Fokus und mentale Selbstführung :: Josefin Hahn
+
+# F37A :: Vestas – Tech House :: Forum 37 Tech House – „Zuhause bei Vestas“ :: https://www.vestas.de/de-de :: Shuttle ab Hauptgebäude zu den Häusern 374 + 375 bei Bedarf; auch fußläufig erreichbar.
+10:00-11:00 :: V182 – „Größerer Rotor, bewährte Plattform“ :: Jonas von der Fecht – Vestas Deutschland GmbH
+11:00-12:00 :: Performance Check-In EnVentus 7 MW :: Yusuf Tatli – Vestas Deutschland GmbH
+# F37B :: Vestas – Commercial House :: Forum 37 Commercial House – „Zuhause bei Vestas“ :: https://www.vestas.de/de-de :: Shuttle ab Hauptgebäude zu den Häusern 374 + 375 bei Bedarf; auch fußläufig erreichbar.
+10:00-11:00 :: Ready for EEG 2027? Erfolgreich mit Vestas im EEG 2027 und Netzanschlusspaket :: Catharina Dreier – Vestas Deutschland GmbH
+11:00-12:00 :: Service bei Vestas – heute und in der Zukunft :: Dr. Florian Wolf – Vestas Deutschland GmbH
+
+# H305 :: HUSUM WIND :: Themenhaus 305 – Besuchen Sie uns im Themenhaus der HUSUM WIND :: https://messehusum.com/ :: Nur zu vorab vereinbarten Terminen (info@husumwind.com oder Stand 288). Programm folgt!
+# H348 :: IDASWIND | RE:Solut :: Themenhaus 348 – IDASWIND GmbH || RE:Solut GmbH – „Für Heute. Für Morgen. Für Alle.“ :: https://idaswind.com/ https://re-solut.de/ :: Kleine, praxisnahe Workshops mit Partnern; Kontakt: ms@idaswind.com
+10:00-14:00 :: Für Heute. Für Morgen. Für Alle. – Workshops, Austausch, Kooperationen :: IDASWIND GmbH, RE:Solut GmbH
+# H400 :: ORCHIS :: Themenhaus 400 – ORCHIS Umweltplanung GmbH :: https://orchis-eco.de/ :: Fragen rund um Umweltplanung für Wind, Solar & Trassenplanung. Programm folgt!
+# H451 :: ERNEUERBARE ENERGIEN :: Themenhaus 451 – ERNEUERBARE ENERGIEN :: https://www.erneuerbareenergien.de/ :: Telefon 0172 7502217.
+09:30-11:30 :: SPRECHEN WIR ÜBER ERNEUERBARE ENERGIEN! :: Nicole Weinhold, Patrick Krumbach – ERNEUERBARE ENERGIEN – das Magazin
